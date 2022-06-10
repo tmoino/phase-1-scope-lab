@@ -16,7 +16,7 @@ function overwriteBestCustomer(){
 const leastFavoriteCustomer = 'Tony'
 
 function changeLeastFavoriteCustomer(){
-    leastFavoriteCustomer = 'billy'
+    leastFavoriteCustomer = 'Winnie'
 }
 
 // the error is because you cannot overwrite a variable declare with const
